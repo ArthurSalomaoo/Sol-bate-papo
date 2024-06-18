@@ -1,0 +1,224 @@
+body {
+    background-color: black;
+}
+
+.div-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+}
+
+li {
+    color: black;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.div-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.form{
+    text-align: center;
+}
+
+.form > div{
+    margin-top: 10px;
+}
+
+label {
+}
+
+input{
+    margin-left: 5px;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 18px;
+    border-radius: 7px;
+}
+
+button{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgba(246, 246, 246, 0.801);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.titulo > img {
+    margin-right: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+button {
+    color: black;
+}
+
+.conteudo {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
+
+.divId {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.divId>input {
+    height: 25px;
+    width: 175px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    border-bottom: 2px solid black;
+    text-align: center;
+    
+}
+
+.divId>button {
+    height: 25px;
+    width: 150px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    border-bottom: 2px solid black;
+}
+
+.form {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form > input {
+    height: 25px;
+    width: 175px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.form > textarea {
+    margin-top: 22px;
+    padding-left: 10px;
+    padding-top: 10px;
+    min-width: 300px;
+    min-height: 100px;
+    outline: none;
+    vertical-align: baseline;
+}
+
+.form > button{
+    margin-top: 18px;
+    height: 25px;
+    width: 150px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    border-bottom: 2px solid black;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgba(246, 246, 246, 0.801);
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.div-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.form{
+    text-align: center;
+}
+
+.form > div{
+    margin-top: 10px;
+}
+
+label {
+}
+
+input{
+    margin-left: 5px;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 18px;
+    border-radius: 7px;
+}
+
+button{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgba(246, 246, 246, 0.801);
+}
