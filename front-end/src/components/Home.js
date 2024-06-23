@@ -1,11 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import '../css/css.css'
+import '../css/home.css'
 
 function Home() {
   return (
-    <div className="div-container">
-      <h1 className='h1'>Home</h1>
+    <div id="home">
+      <h1 className=''>Home</h1>
       <nav>
         <ul>
           <li>
